@@ -65,4 +65,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ### Metrics
 
 <!--START_SECTION:waka-->
+```text
+Python     6 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   31.41 % 
+Markdown   5 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+HTML       4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   22.39 % 
+CSS        1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+JSON       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+```
 <!--END_SECTION:waka-->
