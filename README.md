@@ -66,10 +66,10 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     7 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   38.90 % 
-Python       4 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-HTML         3 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-JavaScript   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-CSS          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Markdown     7 hrs           █████████░░░░░░░░░░░░░░░░   38.65 % 
+Python       4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+HTML         3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.36 % 
+JavaScript   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 <!--END_SECTION:waka-->
