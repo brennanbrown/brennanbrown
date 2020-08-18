@@ -66,11 +66,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
-- [My Duck Portfolio: Creating a website from scratch.](https://dev.to/brennan/my-duck-portfolio-2mmh)
+- [Non-technical Skills for Developers](https://dev.to/brennan/non-technical-skills-for-developers-1a2h)
+- [Creating a Portfolio](https://dev.to/brennan/my-duck-portfolio-2mmh)
 - [Now Is Now](/now-is-now)
 - [The One-Year Rule](/one-year-rule)
 - [24: Be Noteworthy](/24-be-noteworthy)
-- [6 Ways to Achieve New Things](/6-ways-to-achieve-new-things/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Weekly Metrics :bar_chart:
