@@ -62,6 +62,12 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
+<hr>
+
+### Recent Posts :bookmark_tabs:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Weekly Metrics :bar_chart:
 
 <!--START_SECTION:waka-->
