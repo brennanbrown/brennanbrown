@@ -1,8 +1,7 @@
 <!--
 My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic.
 -->
-
-<h1 align="center">Hi, I'm Brennan Brown! :stars:</h1>
+<img width="100%" src="https://i.postimg.cc/bJgC7W3j/linked-6.png"/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
