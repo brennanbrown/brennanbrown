@@ -65,11 +65,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
+- [My Coding Journey](https://dev.to/brennan/my-coding-journey-32h6)
 - [Reclaiming The Internet](https://dev.to/brennan/reclaiming-the-internet-3jeh)
 - [Establishing Your Identity](https://dev.to/brennan/establishing-your-identity-449m)
 - [Non-technical Skills for Developers](https://dev.to/brennan/non-technical-skills-for-developers-1a2h)
 - [Creating a Portfolio with Node.js](https://dev.to/brennan/my-duck-portfolio-2mmh)
-- [Now Is Now](https://notebook.casa/now-is-now)
 <!-- BLOG-POST-LIST:END -->
 
 ### Weekly Metrics :bar_chart:
