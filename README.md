@@ -82,10 +82,10 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-JavaScript   4 hrs 34 mins   ███████████████▓░░░░░░░░░   62.09 % 
-PHP          1 hr 45 mins    ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Markdown     1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+JavaScript   2 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   45.97 % 
+PHP          1 hr 45 mins    ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Markdown     1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.65 % 
 ```
 <!--END_SECTION:waka-->
