@@ -82,8 +82,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
-HTML       19 mins         ████████████████████████▒   97.32 % 
+HTML       19 mins         ████████████████████████▒   97.51 % 
 ```
 <!--END_SECTION:waka-->
