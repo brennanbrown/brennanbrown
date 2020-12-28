@@ -82,10 +82,10 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
-HTML       21 mins         █████████████▓░░░░░░░░░░░   54.44 % 
-Markdown   14 mins         █████████░░░░░░░░░░░░░░░░   36.07 % 
-Bash       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+HTML       21 mins         █████████████▓░░░░░░░░░░░   54.49 % 
+Markdown   12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.07 % 
+Bash       5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 ```
 <!--END_SECTION:waka-->
