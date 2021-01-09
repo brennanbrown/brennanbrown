@@ -82,12 +82,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2020 - 07 January, 2021
+Week: 01 January, 2021 - 08 January, 2021
 
-Java         36 mins         ████████████████░░░░░░░░░   64.36 % 
-Bash         12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.78 % 
-Markdown     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown   3 mins          ███████████████████████▓░   94.62 % 
 ```
 <!--END_SECTION:waka-->
