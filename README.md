@@ -82,6 +82,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 January, 2021 - 22 January, 2021
+
+Markdown   13 mins         ██████████████░░░░░░░░░░░   56.39 % 
+INI        4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Other      3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+YAML       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 ```
 <!--END_SECTION:waka-->
