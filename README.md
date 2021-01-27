@@ -82,7 +82,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 Markdown   13 mins         █████████████▓░░░░░░░░░░░   55.26 % 
 INI        4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
