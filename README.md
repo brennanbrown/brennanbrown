@@ -71,11 +71,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6)
 - [8 Cheap or Free Learning Resources!](https://dev.to/brennan/8-cheap-or-free-learning-resources-j1j)
 - [Watery: A New Theme](https://dev.to/brennan/watery-for-jekyll-i6c)
 - [Jumping Into Jekyll](https://dev.to/brennan/jumping-into-jekyll-4o9h)
 - [The Hard Reset](https://notebook.casa/hard-reset)
-- [My Coding Journey](https://dev.to/brennan/my-coding-journey-32h6)
 <!-- BLOG-POST-LIST:END -->
 
 ### Weekly Metrics :bar_chart:
