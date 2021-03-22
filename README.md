@@ -82,12 +82,12 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 March, 2021 - 20 March, 2021
+Week: 14 March, 2021 - 21 March, 2021
 
-Markdown     1 hr 50 mins    ██████████▒░░░░░░░░░░░░░░   41.74 % 
-JavaScript   1 hr 49 mins    ██████████▒░░░░░░░░░░░░░░   41.11 % 
-HTML         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Markdown     1 hr 12 mins    ████████████░░░░░░░░░░░░░   47.81 % 
+JavaScript   1 hr 2 mins     ██████████▒░░░░░░░░░░░░░░   41.35 % 
+HTML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+YAML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
