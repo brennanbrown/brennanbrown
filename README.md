@@ -82,7 +82,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 April, 2021 - 08 April, 2021
+Week: 02 April, 2021 - 09 April, 2021
 
 HTML       2 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   41.83 % 
 YAML       2 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.47 % 
