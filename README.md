@@ -17,7 +17,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan, I'm a 24-year-old Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. Last year, I compeleted the Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
+Hey there! :smile: My name is Brennan, I'm a 25-year-old Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. Last year, I compeleted the Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
 
