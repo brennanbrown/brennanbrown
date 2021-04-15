@@ -4,14 +4,14 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 <img width="100%" src="https://i.postimg.cc/nzq1wJLS/banner-gh.png"/>
 
 [![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/brennan)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
 [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
 [![Glitch](https://img.shields.io/badge/-Glitch-3333FF?style=flat&labelColor=3333FF&logo=glitch&logoColor=white&link=https://glitch.com/@brennan)](https://glitch.com/@brennan)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
+[![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
 ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
+[![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://libera.com/@brennan)
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
 
