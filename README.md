@@ -1,7 +1,7 @@
 <!--
 My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic.
 -->
-<img width="100%" src="https://i.postimg.cc/nzq1wJLS/banner-gh.png"/>
+<img width="100%" src="https://i.postimg.cc/bvZG98sG/new-github.png/>
 
 [![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/brennan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
