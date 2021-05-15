@@ -71,11 +71,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
-- [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6)
-- [8 Cheap or Free Learning Resources!](https://dev.to/brennan/8-cheap-or-free-learning-resources-j1j)
-- [Watery: A New Theme](https://dev.to/brennan/watery-for-jekyll-i6c)
-- [Jumping Into Jekyll](https://dev.to/brennan/jumping-into-jekyll-4o9h)
-- [My Coding Journey](https://dev.to/brennan/my-coding-journey-32h6)
+- [Start Small](https://brennanbrown.github.io/old-blog/2021/05/12/start-small.html)
+- [Being Able To Take Stock](https://brennanbrown.github.io/old-blog/2021/04/21/being-able-to-take-stock.html)
+- [The Art Of Merit](https://brennanbrown.github.io/old-blog/2021/03/24/the-art-of-merit.html)
+- [Letter To Pi Day](https://brennanbrown.github.io/old-blog/2021/03/14/letter-to-pi-day.html)
+- [How To Gamify Online Learning For Yourself](https://brennanbrown.github.io/old-blog/2021/03/10/how-to-gamify-online-learning-for-yourself.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Weekly Metrics :bar_chart:
