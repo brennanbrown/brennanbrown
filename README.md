@@ -82,7 +82,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 May, 2021 - 20 May, 2021
+Week: 14 May, 2021 - 21 May, 2021
 
 HTML         22 mins         ████████▒░░░░░░░░░░░░░░░░   33.84 % 
 JavaScript   19 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
