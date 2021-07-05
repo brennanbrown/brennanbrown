@@ -82,9 +82,6 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 June, 2021 - 03 July, 2021
-
-JSON       31 mins         ██████████████▓░░░░░░░░░░   58.93 % 
-HTML       18 mins         ████████▓░░░░░░░░░░░░░░░░   35.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
