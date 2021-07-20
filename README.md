@@ -82,6 +82,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 July, 2021 - 19 July, 2021
+
+
 ```
 <!--END_SECTION:waka-->
