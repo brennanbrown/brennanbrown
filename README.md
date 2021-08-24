@@ -82,7 +82,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
 CSS        32 mins         █████████████▒░░░░░░░░░░░   53.72 % 
 HTML       25 mins         ██████████▒░░░░░░░░░░░░░░   41.52 % 
