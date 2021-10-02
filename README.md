@@ -82,7 +82,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2021 - 30 September, 2021
+Week: 25 September, 2021 - 01 October, 2021
 
 
 ```
