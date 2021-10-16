@@ -1,7 +1,7 @@
 <!--
 My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic.
 -->
-<img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/>
+<!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
 
 [![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/brennan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/bkennethbrown/)](https://linkedin.com/in/bkennethbrown/)
@@ -78,12 +78,3 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 - [My Coding Journey](https://dev.to/brennan/my-coding-journey-32h6)
 <!-- BLOG-POST-LIST:END -->
 
-### Weekly Metrics :bar_chart:
-
-<!--START_SECTION:waka-->
-```text
-Week: 09 October, 2021 - 15 October, 2021
-
-
-```
-<!--END_SECTION:waka-->
