@@ -11,7 +11,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 [![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
 [![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)](https://pronoun.is/he)
 [![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)](https://opensource.guide/)
-[![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://libera.com/@brennan)
+[![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://en.liberapay.com/brennan/)
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
 
