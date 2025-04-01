@@ -17,7 +17,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan, I'm a 28-year-old Queer Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I completed both the Full-Stack Developer Program at [InceptionU](https://www.inceptionu.com/full-stack-developer-program) and the Growth Marketing Bootcamp at [OnRamp](https://joinonramp.com/growth-marketing/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
+Hey there! :smile: My name is Brennan, I'm a 29-year-old Queer Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I completed both the Full-Stack Developer Program at [InceptionU](https://www.inceptionu.com/full-stack-developer-program) and the Growth Marketing Bootcamp at [OnRamp](https://joinonramp.com/growth-marketing/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
 
