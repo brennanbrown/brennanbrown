@@ -5,8 +5,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 [![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/brennan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
-[![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://blog.brennanbrown.ca)](https://blog.brennanbrown.ca)
 [![Glitch](https://img.shields.io/badge/-Glitch-3333FF?style=flat&labelColor=3333FF&logo=glitch&logoColor=white&link=https://glitch.com/@brennan)](https://glitch.com/@brennan)
 [![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
 [![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)](https://pronoun.is/he)
@@ -17,7 +16,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan, I'm a 29-year-old Queer Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I graduated from Mount Royal University with a Bachelor of Arts majoring in English Honours, and have also completed both the Full-Stack Developer Program at [InceptionU](https://www.inceptionu.com/full-stack-developer-program) and the Growth Marketing Bootcamp at [OnRamp](https://joinonramp.com/growth-marketing/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
+Hey there! :smile: My name is Brennan, I'm a 29-year-old Queer Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. In April 2025, I graduated from Mount Royal University with a Bachelor of Arts majoring in English Honours, and have also completed both the Full-Stack Developer Program at [InceptionU](https://www.inceptionu.com/full-stack-developer-program) in 2020 and the Growth Marketing Bootcamp at [OnRamp](https://www.linkedin.com/school/joinonramp/) in 2022, and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
 
