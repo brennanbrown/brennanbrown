@@ -77,3 +77,5 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 - [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
