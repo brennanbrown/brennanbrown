@@ -78,4 +78,15 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 August 2025 - To: 23 August 2025
+
+Markdown     28 mins         █████████████░░░░░░░░░░░░   52.42 %
+JSON         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+TypeScript   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Nunjucks     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+```
+
 <!--END_SECTION:waka-->
