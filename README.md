@@ -70,11 +70,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Gem out of your Jekyll theme!](https://dev.to/brennan/how-to-make-a-gem-out-of-your-jekyll-theme-40ho)
 - [Shipping jekyll-audit: Dogfooding a Jekyll QA CLI on a production site](https://dev.to/brennan/shipping-jekyll-audit-dogfooding-a-jekyll-qa-cli-on-a-production-site-307j)
 - [Building Full-stack Journal App for Me: From IndexedDB to Serverless Architecture](https://dev.to/brennan/building-journal-for-me-from-750words-fan-to-full-stack-developer-2e18)
 - [I Analyzed 14 Years of My Writing with Vibe Coding. Here&#39;s What Made Me Change How I See Everything.](https://dev.to/brennan/i-analyzed-14-years-of-my-writing-with-vibe-coding-heres-what-made-me-change-how-i-see-everything-15k4)
 - [Creating Dynamic Headings and Footers in Microsoft Word](https://dev.to/brennan/creating-dynamic-headings-and-footers-in-microsoft-word-4peb)
-- [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
