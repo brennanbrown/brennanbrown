@@ -19,4 +19,5 @@ jobs:
           SHOW_MASKED_TIME: true
           TIME_RANGE: all_time
           SHOW_TIME: true
+          LANG_COUNT: 6
           COMMIT_MESSAGE: Update README.md with WakaTime metrics
