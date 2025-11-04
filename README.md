@@ -75,11 +75,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
+- [Breaking AI Browser Defenses is Easy: Novel Prompt Injection Techniques That Work](https://dev.to/brennan/breaking-ai-browser-defenses-is-easy-novel-prompt-injection-techniques-that-work-2fbj)
 - [🍓 Berry House is Open for Business!](https://dev.to/brennan/berry-house-is-open-for-business-59go)
 - [How to make a Gem out of your Jekyll theme!](https://dev.to/brennan/how-to-make-a-gem-out-of-your-jekyll-theme-40ho)
 - [Shipping jekyll-audit: Dogfooding a Jekyll QA CLI on a production site](https://dev.to/brennan/shipping-jekyll-audit-dogfooding-a-jekyll-qa-cli-on-a-production-site-307j)
 - [Building Full-stack Journal App for Me: From IndexedDB to Serverless Architecture](https://dev.to/brennan/building-journal-for-me-from-750words-fan-to-full-stack-developer-2e18)
-- [I Analyzed 14 Years of My Writing with Vibe Coding. Here&#39;s What Made Me Change How I See Everything.](https://dev.to/brennan/i-analyzed-14-years-of-my-writing-with-vibe-coding-heres-what-made-me-change-how-i-see-everything-15k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
