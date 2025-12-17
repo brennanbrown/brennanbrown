@@ -75,11 +75,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
+- [Version-Controlled omg.lol: Auto-Syncing Your IndieWeb with GitHub Actions](https://dev.to/brennan/version-controlled-omglol-auto-syncing-your-indieweb-with-github-actions-22eh)
 - [Building BearMinder: a tiny macOS menubar app connecting Bear to Beeminder in Swift](https://dev.to/brennan/building-bearminder-a-tiny-macos-menubar-app-connecting-bear-to-beeminder-in-swift-553k)
 - [Breaking AI Browser Defenses is Easy: Novel Prompt Injection Techniques That Work](https://dev.to/brennan/breaking-ai-browser-defenses-is-easy-novel-prompt-injection-techniques-that-work-2fbj)
 - [🍓 Berry House is Open for Business!](https://dev.to/brennan/berry-house-is-open-for-business-59go)
 - [How to make a Gem out of your Jekyll theme!](https://dev.to/brennan/how-to-make-a-gem-out-of-your-jekyll-theme-40ho)
-- [Shipping jekyll-audit: Dogfooding a Jekyll QA CLI on a production site](https://dev.to/brennan/shipping-jekyll-audit-dogfooding-a-jekyll-qa-cli-on-a-production-site-307j)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
