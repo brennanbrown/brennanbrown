@@ -13,6 +13,8 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
 
+<h2 align="center"> NEW! Visit my indieweb site <b><a href="https://brennan.day">🔆 brennan.day 🔆</a></b></h2>
+
 ## About Me :wave:
 
 Hey there! :smile: My name is Brennan, I'm a 29-year-old Queer Métis JAMstack developer at [**Berry House**](https://berryhouse.ca) and [full-time writer](https://blog.brennanbrown.ca) from Winnipeg, Manitoba and currently reside in Calgary, Alberta. In April 2025, I graduated from Mount Royal University with a Bachelor of Arts majoring in English Honours, and have also completed both the Full-Stack Developer Program at [InceptionU](https://www.inceptionu.com/full-stack-developer-program) in 2020 and the Growth Marketing Bootcamp at [OnRamp](https://www.linkedin.com/school/joinonramp/) in 2022. Now, I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
