@@ -89,16 +89,16 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2017 - To: 21 January 2026
+From: 18 August 2017 - To: 22 January 2026
 
-Total Time: 878 hrs 22 mins
+Total Time: 882 hrs 5 mins
 
-Markdown                   353 hrs 53 mins ██████████░░░░░░░░░░░░░░░   40.29 %
-HTML                       125 hrs 30 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-JavaScript                 115 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Python                     60 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-CSS                        57 hrs 21 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-YAML                       30 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown                   357 hrs 1 min   ██████████░░░░░░░░░░░░░░░   40.47 %
+HTML                       125 hrs 30 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+JavaScript                 115 hrs 51 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Python                     60 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+CSS                        57 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+YAML                       30 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
