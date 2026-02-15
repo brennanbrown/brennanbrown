@@ -123,21 +123,21 @@ GitHub Copilot was [trained on billions of lines of code from public repositorie
 - Suggesting code without including required license terms
 - [Monetizing developers' work without permission](https://moginlawllp.com/developers-sue-github-microsoft-and-openai-over-copyright-in-creating-ai-tool-copilot/)
 
-While [most copyright claims were dismissed](https://www.theregister.com/2024/07/08/github_copilot_dmca/), breach of contract and open-source license violation claims continue.
+[Most copyright claims were dismissed](https://www.theregister.com/2024/07/08/github_copilot_dmca/), but breach of contract and open-source license violation claims continue.
 
 ### Privacy and Security Concerns
 
 [Microsoft Copilot leaked thousands of private GitHub repositories](https://www.calcalistech.com/ctechnews/article/hjuo8f25kl) from major companies including IBM, Google, and Microsoft itself. Over 16,000 organizations were affected, with sensitive data including access keys and security tokens exposed through caching mechanisms.
 
-Regarding training data, [GitHub's privacy policy is deliberately vague](https://medium.com/@pp_85623/github-copilot-for-private-code-think-twice-079c5b5a0954). While Business and Enterprise customers reportedly have protections, free and Pro tier users face [uncertainty about whether their code is used for training](https://github.com/orgs/community/discussions/152229). [Users report that privacy settings have been mysteriously re-enabled](https://github.com/orgs/community/discussions/152229) without consent.
+[GitHub's privacy policy is deliberately vague](https://medium.com/@pp_85623/github-copilot-for-private-code-think-twice-079c5b5a0954) regarding training data. While Business and Enterprise customers reportedly have protections, free and Pro tier users face [uncertainty about whether their code is used for training](https://github.com/orgs/community/discussions/152229). [Users report that privacy settings have been mysteriously re-enabled](https://github.com/orgs/community/discussions/152229) without consent.
 
 ### Ignored User Feedback
 
-[User requests to disable or block Copilot features have been the #1 and #2 most popular topics](https://en.wikipedia.org/wiki/GitHub) on GitHub's community page for over 12 months—and remain completely unanswered. Users report that [disable buttons are ignored by the interface](https://github.com/orgs/community/discussions/159749).
+[User requests to disable or block Copilot features have been the #1 and #2 most popular topics]([https://en.wikipedia.org/wiki/GitHub](https://news.ycombinator.com/item?id=45164497)) on GitHub's community page for over 12 months—and remain completely unanswered. Users report that [disable buttons are ignored by the interface](https://github.com/orgs/community/discussions/159749).
 
 ### Pricing Controversies
 
-In December 2025, GitHub [announced plans to charge $0.002/minute for self-hosted Actions runners](https://www.theregister.com/2025/12/17/github_charge_dev_own_hardware/)—charging developers to run GitHub's software on their own hardware. The backlash was so intense that GitHub [postponed the change within 24 hours](https://winbuzzer.com/2025/12/18/github-postpones-self-hosted-action-runner-fees-following-community-revolt-xcxwbn/), admitting they "missed the mark." However, this revealed their ongoing search for new revenue streams at users' expense.
+In December 2025, GitHub [announced plans to charge $0.002/minute for self-hosted Actions runners](https://www.theregister.com/2025/12/17/github_charge_dev_own_hardware/), charging developers to run GitHub's software on their own hardware. The backlash was so intense that GitHub [postponed the change within 24 hours](https://winbuzzer.com/2025/12/18/github-postpones-self-hosted-action-runner-fees-following-community-revolt-xcxwbn/).
 
 ---
 
@@ -146,7 +146,7 @@ In December 2025, GitHub [announced plans to charge $0.002/minute for self-hoste
 You don't have to stay on a platform that doesn't align with your values. Here are ethical alternatives:
 
 ### [Codeberg](https://codeberg.org/) (Recommended)
-A [non-profit, community-driven platform](https://docs.codeberg.org/getting-started/what-is-codeberg/) run by Codeberg e.V., a democratic German organization. It's powered by [Forgejo](https://forgejo.org/) (a community-governed fork of Gitea) and funded entirely by donations. No investors, no ads, no corporate roadmap.
+A [non-profit, community-driven platform](https://docs.codeberg.org/getting-started/what-is-codeberg/) run by Codeberg e.V., a democratic German organization. It's powered by [Forgejo](https://forgejo.org/) and funded entirely by donations. No investors, no ads, no corporate roadmap.
 
 **Features:**
 - Free Git hosting for open source
@@ -156,11 +156,11 @@ A [non-profit, community-driven platform](https://docs.codeberg.org/getting-star
 
 ### [Self-Hosted Options](https://openalternative.co/blog/top-12-alternatives-to-github)
 
-**[Forgejo](https://forgejo.org/)**: The software powering Codeberg. Lightweight, runs on modest hardware (even Raspberry Pi), with a familiar GitHub-like interface.
+**[Forgejo](https://forgejo.org/)**: The software powering Codeberg. Lightweight, runs on modest hardware (like Raspberry Pi), with a familiar GitHub-like interface.
 
-**[Gitea](https://www.wearedevelopers.com/en/magazine/298/top-github-alternatives)**: The original project Forgejo forked from. Still actively maintained, written in Go, easy to install.
+**[Gitea](https://about.gitea.com/)**: The original project Forgejo forked from. Still actively maintained, written in Go, easy to install.
 
-**[GitLab](https://refine.dev/blog/github-alternatives/)**: Full DevOps platform with comprehensive CI/CD. Can be self-hosted or used as a service.
+**[GitLab](https://gitlabd.com/)**: Full DevOps platform with comprehensive CI/CD. Can be self-hosted or used as a service.
 
 ### Migration Steps
 
@@ -174,9 +174,9 @@ A [non-profit, community-driven platform](https://docs.codeberg.org/getting-star
 
 ---
 
-## Why Keep a GitHub Mirror?
+### Why Keep a GitHub Mirror?
 
-I maintain a mirror here for **Discoverability**, many developers still only search on GitHub, **Education** as this README can reach people who need to know about these issues, and **Community**, by helping others migrate creates more impact than disappearing
+I maintain a mirror here for **discoverability**, as many developers still only search on GitHub, **education** as this README can reach people who need to know about these issues, and **community**, by helping others migrate is better than just disappearing.
 
 ---
 
