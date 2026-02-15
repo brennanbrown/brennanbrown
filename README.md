@@ -102,3 +102,84 @@ YAML                       33 hrs 47 mins  █░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+## ⚠️ Choose a Better Developer Platform
+
+GitHub and Microsoft have demonstrated a pattern of decisions that conflict with the values of the independent, ethical web. Here are the key concerns:
+
+### Loss of Independence and Declining Engineering Quality
+
+In August 2025, [GitHub's CEO resigned and the platform was fully absorbed into Microsoft's CoreAI division](https://www.tomshardware.com/software/programming/github-folds-into-microsoft-following-ceo-resignation-once-independent-programming-site-now-part-of-coreai-team), ending operational independence. This coincided with [mounting complaints about declining service quality](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/).
+
+The [Zig Software Foundation publicly quit GitHub](https://slashdot.org/story/25/12/03/070228/zig-quits-github-says-microsofts-ai-obsession-has-ruined-the-service), citing Microsoft's AI obsession as having "ruined the service." Critical infrastructure bugs like the [safe_sleep.sh issue that caused runners to hang indefinitely](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/) went unaddressed for over a year while Microsoft prioritized AI features.
+
+### Copilot Training on Your Code Without Proper Attribution
+
+GitHub Copilot was [trained on billions of lines of code from public repositories](https://githubcopilotlitigation.com/) without respecting open-source license requirements. A [class-action lawsuit filed in November 2022](https://www.saverilawfirm.com/our-cases/github-copilot-intellectual-property-litigation) alleges that Copilot violates the terms of 11 popular open-source licenses (including MIT, GPL, and Apache) by:
+
+- Removing copyright management information and attribution
+- Suggesting code without including required license terms
+- [Monetizing developers' work without permission](https://moginlawllp.com/developers-sue-github-microsoft-and-openai-over-copyright-in-creating-ai-tool-copilot/)
+
+While [most copyright claims were dismissed](https://www.theregister.com/2024/07/08/github_copilot_dmca/), breach of contract and open-source license violation claims continue.
+
+### Privacy and Security Concerns
+
+[Microsoft Copilot leaked thousands of private GitHub repositories](https://www.calcalistech.com/ctechnews/article/hjuo8f25kl) from major companies including IBM, Google, and Microsoft itself. Over 16,000 organizations were affected, with sensitive data including access keys and security tokens exposed through caching mechanisms.
+
+Regarding training data, [GitHub's privacy policy is deliberately vague](https://medium.com/@pp_85623/github-copilot-for-private-code-think-twice-079c5b5a0954). While Business and Enterprise customers reportedly have protections, free and Pro tier users face [uncertainty about whether their code is used for training](https://github.com/orgs/community/discussions/152229). [Users report that privacy settings have been mysteriously re-enabled](https://github.com/orgs/community/discussions/152229) without consent.
+
+### Ignored User Feedback
+
+[User requests to disable or block Copilot features have been the #1 and #2 most popular topics](https://en.wikipedia.org/wiki/GitHub) on GitHub's community page for over 12 months—and remain completely unanswered. Users report that [disable buttons are ignored by the interface](https://github.com/orgs/community/discussions/159749).
+
+### Pricing Controversies
+
+In December 2025, GitHub [announced plans to charge $0.002/minute for self-hosted Actions runners](https://www.theregister.com/2025/12/17/github_charge_dev_own_hardware/)—charging developers to run GitHub's software on their own hardware. The backlash was so intense that GitHub [postponed the change within 24 hours](https://winbuzzer.com/2025/12/18/github-postpones-self-hosted-action-runner-fees-following-community-revolt-xcxwbn/), admitting they "missed the mark." However, this revealed their ongoing search for new revenue streams at users' expense.
+
+---
+
+## How to Migrate Your Code
+
+You don't have to stay on a platform that doesn't align with your values. Here are ethical alternatives:
+
+### [Codeberg](https://codeberg.org/) (Recommended)
+A [non-profit, community-driven platform](https://docs.codeberg.org/getting-started/what-is-codeberg/) run by Codeberg e.V., a democratic German organization. It's powered by [Forgejo](https://forgejo.org/) (a community-governed fork of Gitea) and funded entirely by donations. No investors, no ads, no corporate roadmap.
+
+**Features:**
+- Free Git hosting for open source
+- CI/CD via Woodpecker and Forgejo Actions
+- Static site hosting with Codeberg Pages
+- [Migration tools built-in](https://taggart-tech.com/migrate-to-codeberg/)
+
+### [Self-Hosted Options](https://openalternative.co/blog/top-12-alternatives-to-github)
+
+**[Forgejo](https://forgejo.org/)**: The software powering Codeberg. Lightweight, runs on modest hardware (even Raspberry Pi), with a familiar GitHub-like interface.
+
+**[Gitea](https://www.wearedevelopers.com/en/magazine/298/top-github-alternatives)**: The original project Forgejo forked from. Still actively maintained, written in Go, easy to install.
+
+**[GitLab](https://refine.dev/blog/github-alternatives/)**: Full DevOps platform with comprehensive CI/CD. Can be self-hosted or used as a service.
+
+### Migration Steps
+
+1. **Create accounts** on your chosen platform(s)
+2. **Use built-in migration tools**: Most alternatives can import directly from GitHub, including issues, PRs, and wikis
+3. **Update your README**: Add a notice about the migration with links to new locations
+4. **Archive GitHub repos**: Mark them as read-only with clear redirection
+5. **Update local remotes**: `git remote set-url origin <new-url>`
+
+[Detailed migration guide for Codeberg](https://taggart-tech.com/migrate-to-codeberg/)
+
+---
+
+## Why Keep a GitHub Mirror?
+
+I maintain a mirror here for **Discoverability**, many developers still only search on GitHub, **Education** as this README can reach people who need to know about these issues, and **Community**, by helping others migrate creates more impact than disappearing
+
+---
+
+→ [**My GitLab**](https://gitlab.com/brennankbrown)
+→ [**My Forgejo**](https://source.tube/brennan)
+→ [**My Codeberg**](https://codeberg.org/brennanbrown)
