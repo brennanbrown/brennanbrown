@@ -176,7 +176,7 @@ A [non-profit, community-driven platform](https://docs.codeberg.org/getting-star
 
 ### Why Keep a GitHub Mirror?
 
-I maintain a mirror here for **discoverability**, as many developers still only search on GitHub, **education** as this README can reach people who need to know about these issues, and **community**, by helping others migrate is better than just disappearing.
+I maintain a mirror here for three reasons. **Discoverability**, as many developers still only search on GitHub, **education** as this README can reach people who need to know about these issues, and **community**, by helping others migrate and that's better than just disappearing.
 
 ---
 
