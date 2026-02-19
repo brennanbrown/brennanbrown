@@ -11,7 +11,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 [![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)](https://opensource.guide/)
 [![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://en.liberapay.com/brennan/)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://blog.brennanbrown.ca">Writing Portfolio</a></b> :octocat: </p>
 
 <h2 align="center"> NEW! Visit my indieweb site <b><a href="https://brennan.day">🔆 brennan.day 🔆</a></b></h2>
 
