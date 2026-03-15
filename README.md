@@ -79,11 +79,11 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ### Recent Posts :bookmark_tabs:
 <!-- BLOG-POST-LIST:START -->
+- [Building My Blog From Scratch: IndieWeb, New Features, and Three Months of Iterations](https://dev.to/brennan/building-my-blog-from-scratch-indieweb-new-features-and-three-months-of-iterations-4b1d)
 - [Introducing Ⓜ️ Meddler! A Medium Export Converter](https://dev.to/brennan/introducing-meddler-a-medium-export-converter-4nka)
 - [Announcing Three New Free JAMstack Blogging Themes: IndiePaper, Newsprint, and brennan.jp.net](https://dev.to/brennan/announcing-three-new-free-jamstack-blogging-themes-indiepaper-newsprint-and-brennanjpnet-2f56)
 - [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
 - [Deploying An Eleventy Site to NeoCities with GitLab CI/CD](https://dev.to/brennan/deploying-an-eleventy-site-to-neocities-with-gitlab-cicd-1onp)
-- [Building brennan.day Part One: Design, Rainbows, and Accessibility](https://dev.to/brennan/building-brennanday-part-one-design-rainbows-and-accessibility-33g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
