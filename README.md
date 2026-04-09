@@ -89,7 +89,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2017 - To: 07 April 2026
+From: 18 August 2017 - To: 08 April 2026
 
 Total Time: 1,062 hrs 42 mins
 
