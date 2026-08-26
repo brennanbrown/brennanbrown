@@ -97,7 +97,7 @@ A selection of other technical write-ups from [brennan.day](https://brennan.day)
 
 - [How Webmentions Work on brennan.day](https://brennan.day/how-webmentions-work-on-brennan-day/)
 - [A Guide to Becoming a Rogue Scholar](https://brennan.day/a-guide-to-becoming-a-rogue-scholar/)
-- [Publishing My Eleventy Blog to the ATmosphere with Standard.site](https://brennan.day/publishing-my-eleventy-blog-to-the-atmosphere-with-standard-site/): syndicating an 11ty blog to the AT Protocol
+- [Publishing My Eleventy Blog to the ATmosphere with Standard.site](https://brennan.day/publishing-my-eleventy-blog-to-the-atmosphere-with-standard-site/)
 - [Homelab For the Beginner: Self-host Your Own Server on $50 Hardware](https://brennan.day/homelab-for-the-beginner-you-can-self-host-your-own-server-on-50-hardware/)
 - [Introducing writer-cli: a Bash Tool Built from Scratch to Blog in the Terminal](https://brennan.day/introducing-writer-cli-a-bash-tool-i-built-from-scratch-to-blog-in-the-terminal/)
 - [Creating a Digital Garden in 11ty: Tracking My Daily Word Count with URLminder](https://brennan.day/creating-a-digital-garden-in-11ty-tracking-my-daily-word-count-with-urlminder/)
