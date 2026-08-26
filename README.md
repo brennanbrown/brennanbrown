@@ -11,7 +11,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 [![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)](https://opensource.guide/)
 [![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://en.liberapay.com/brennan/)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://blog.brennanbrown.ca">Writing Portfolio</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://brennanbrown.ca">Website</a> / <a href="https://cv.brennanbrown.ca">Resume</a> / <a href="https://blog.brennanbrown.ca">Writing Portfolio</a></b> :octocat: </p>
 
 <h2 align="center"> NEW! Visit my indieweb site <b><a href="https://brennan.day">🔆 brennan.day 🔆</a></b></h2>
 
@@ -44,7 +44,15 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://netlify.com/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github-pages&logoColor=ffffff)](https://pages.github.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)](https://www.heroku.com/)
+
+#### IndieWeb & Decentralized Web:
+[![IndieWeb](https://img.shields.io/badge/-IndieWeb-000000?style=flat-square&logo=indieweb&logoColor=ffffff)](https://indieweb.org/)
+[![AT Protocol](https://img.shields.io/badge/-AT%20Protocol-0285FF?style=flat-square&logo=bluesky&logoColor=ffffff)](https://atproto.com/)
+[![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat-square&logo=rss&logoColor=ffffff)](https://brennan.day/feed.xml)
+
+#### Self-Hosting & Homelab:
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/)
 
 #### Styling & Frontend Tools:
 [![Sass](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
@@ -69,7 +77,6 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 [![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)](https://www.latex-project.org/)
 
 #### Tech I'm Learning:
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)](https://rubyonrails.org/)
 [![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://reactjs.org/)
 [![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
@@ -85,6 +92,15 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 - [Announcing Three New Free JAMstack Blogging Themes: IndiePaper, Newsprint, and brennan.jp.net](https://dev.to/brennan/announcing-three-new-free-jamstack-blogging-themes-indiepaper-newsprint-and-brennanjpnet-2f56)
 - [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
 <!-- BLOG-POST-LIST:END -->
+
+A selection of other technical write-ups from [brennan.day](https://brennan.day):
+
+- [How Webmentions Work on brennan.day](https://brennan.day/how-webmentions-work-on-brennan-day/)
+- [A Guide to Becoming a Rogue Scholar](https://brennan.day/a-guide-to-becoming-a-rogue-scholar/)
+- [Publishing My Eleventy Blog to the ATmosphere with Standard.site](https://brennan.day/publishing-my-eleventy-blog-to-the-atmosphere-with-standard-site/): syndicating an 11ty blog to the AT Protocol
+- [Homelab For the Beginner: Self-host Your Own Server on $50 Hardware](https://brennan.day/homelab-for-the-beginner-you-can-self-host-your-own-server-on-50-hardware/)
+- [Introducing writer-cli: a Bash Tool Built from Scratch to Blog in the Terminal](https://brennan.day/introducing-writer-cli-a-bash-tool-i-built-from-scratch-to-blog-in-the-terminal/)
+- [Creating a Digital Garden in 11ty: Tracking My Daily Word Count with URLminder](https://brennan.day/creating-a-digital-garden-in-11ty-tracking-my-daily-word-count-with-urlminder/)
 
 <!--START_SECTION:waka-->
 
