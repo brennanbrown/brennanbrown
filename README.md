@@ -131,16 +131,16 @@ A selection of other technical write-ups from [brennan.day](https://brennan.day)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2017 - To: 08 October 2026
+From: 18 August 2017 - To: 09 October 2026
 
-Total Time: 1,507 hrs 19 mins
+Total Time: 1,512 hrs 11 mins
 
-Markdown                   791 hrs 22 mins       █████████████░░░░░░░░░░░░   52.50 %
-HTML                       158 hrs 1 min         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-JavaScript                 137 hrs 26 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-CSS                        82 hrs 7 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Python                     64 hrs 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-YAML                       46 hrs 20 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown                   794 hrs 14 mins       █████████████░░░░░░░░░░░░   52.52 %
+HTML                       158 hrs 37 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+JavaScript                 137 hrs 31 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+CSS                        82 hrs 7 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Python                     64 hrs 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+YAML                       46 hrs 20 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
