@@ -131,7 +131,7 @@ A selection of other technical write-ups from [brennan.day](https://brennan.day)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2017 - To: 22 October 2026
+From: 18 August 2017 - To: 23 October 2026
 
 Total Time: 1,540 hrs 11 mins
 
