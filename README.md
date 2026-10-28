@@ -131,11 +131,11 @@ A selection of other technical write-ups from [brennan.day](https://brennan.day)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2017 - To: 26 October 2026
+From: 18 August 2017 - To: 27 October 2026
 
-Total Time: 1,548 hrs 5 mins
+Total Time: 1,548 hrs 6 mins
 
-Markdown                   819 hrs 43 mins       █████████████▒░░░░░░░░░░░   52.95 %
+Markdown                   819 hrs 44 mins       █████████████▒░░░░░░░░░░░   52.95 %
 HTML                       159 hrs 46 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
 JavaScript                 137 hrs 38 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
 CSS                        82 hrs 31 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
