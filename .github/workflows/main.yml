@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          # NOTE: WakaTime API keys became write-only on 2026-11-01.
+          # This secret must hold a personal OAuth token from
+          # https://wakatime.com/oauth (paste it in place of the API key).
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TOTAL: true
